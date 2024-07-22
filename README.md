@@ -4,7 +4,7 @@ This project provides a visual representation of a load balancer distributing re
 
 ## Visuals
 
-![Screen Shot 2024-07-22 at 8 45 12 AM](https://github.com/user-attachments/assets/aa103344-1150-4050-bfda-d39bddc92288)
+![Screen Shot 2024-07-22 at 10 26 07 AM](https://github.com/user-attachments/assets/7c5bb907-72a7-40d4-95e1-39bae80fc77b)
 
 ## Features
 
