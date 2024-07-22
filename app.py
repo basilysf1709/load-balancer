@@ -3,7 +3,7 @@ import random
 from collections import deque
 import os
 
-app = Flask(__name__, static_folder='./frontend/build')
+app = Flask(__name__, static_folder='./client/build')
 
 class LoadBalancer:
     def __init__(self, ips):
