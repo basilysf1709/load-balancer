@@ -2,6 +2,10 @@
 
 This project provides a visual representation of a load balancer distributing requests across multiple IP addresses. It demonstrates different load balancing algorithms and allows for real-time interaction and observation of the load distribution.
 
+## Visuals
+
+![Screen Shot 2024-07-22 at 8 45 12 AM](https://github.com/user-attachments/assets/aa103344-1150-4050-bfda-d39bddc92288)
+
 ## Features
 
 - Interactive visualization of load balancing across multiple IP addresses
